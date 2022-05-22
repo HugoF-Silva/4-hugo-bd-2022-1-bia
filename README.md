@@ -1,4 +1,4 @@
-## Bem-vindo(a), que haja importantes aprendizado e motivação!<br> Disciplina **BANCO DE DADOS**, Oferta 2022/1<br>[Bacharelado em Inteligência Artificial]
+## Disciplina **BANCO DE DADOS**, Oferta 2022/1<br>[Bacharelado em Inteligência Artificial]<br>Bem-vindo(a), que haja importantes aprendizado e motivação!
 
 O plano da disciplina está disponível [aqui](./media/bd-2021-2-bec-plano.pdf).<br>
 
