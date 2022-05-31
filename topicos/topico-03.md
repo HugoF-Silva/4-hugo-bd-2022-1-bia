@@ -40,9 +40,9 @@ Em nossa disciplina, o **BD Empresa** será utilizado para ilustrar conceitos e 
 
 Então, vamos nos apropriar (memorizar?) dos requisitos de dados do BD Empresa.
 
-## Atividade (data limite: **08/06/2022 23h59min59s**)
+## Atividade (data limite: **10/06/2022 23h59min59s**)
 
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bia-bd-2022-1, com o título "Tópico 03", para responder conforme a seguir.
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-1-bia, com o título "Tópico 03", para responder conforme a seguir.
 
 Leia e releia os requisitos de dados pertinentes ao **BD Empresa**.
 
@@ -62,7 +62,7 @@ Importante: Evite consultas (demandas informacionais) simples, tal como "Quais o
 
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bia-bd-2022-1, cujo título é "Tópico 03", para indicar suas reflexões sobre os *requisitos de dados* para o **BD Empresa**.
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2022-1-bia, cujo título é "Tópico 03", para indicar suas reflexões sobre os *requisitos de dados* para o **BD Empresa**.
 
 ### Bibliografia
 
