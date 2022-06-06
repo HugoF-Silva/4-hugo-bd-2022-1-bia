@@ -29,4 +29,4 @@ Algumas benefícios potenciais para o emprego de SGBDs são:
 - mecanismos de segurança dos dados, tais como, cópia (*backup*) e recuperação (*recovery*) de dados;
 - etc.
 
-## Não há atividade para este tópico, excepcionalmente.
+## Atividade em construção ...
