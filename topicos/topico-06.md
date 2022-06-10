@@ -51,4 +51,4 @@ Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-1-bia, com 
    
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2022-1-bia, cujo título é "Tópico 065", para indicar suas reflexões sobre *modelos de dados*.
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2022-1-bia, cujo título é "Tópico 06", para indicar suas reflexões sobre *modelos de dados*.
