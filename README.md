@@ -3,9 +3,12 @@
 ###### *Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 O plano da disciplina está disponível [aqui](./media/bd-2022-1-bia-plano.pdf).<br>
 
-### Tópicos com atividades ativas
+### Para refletir...
 
-> Qual a diferença entre **Modelo de Dados** e **Esquema de Banco de Dados** ?
+1) Qual a diferença entre **Dados** e **Metadados** ?
+2) Qual a diferença entre **Modelo de Dados** e **Esquema de [Banco de] Dados** ?
+
+### Tópicos com atividades ativas
 
 - [Tópico 02a](./topicos/topico-02a.md)
 - [Tópico 03](./topicos/topico-03.md) (Data limite: 10/06/2022 23:59:59)<br>
@@ -15,8 +18,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-1-bia-plano.pdf).
 - [Tópico 05](./topicos/topico-05.md) (Data limite: 17/06/2022 23:59:59)<br>
 - [Tópico 05a](./topicos/topico-05a.md)
 - [Tópico 06](./topicos/topico-06.md) (Data limite: 17/06/2022 23:59:59)<br>
-- [Todos os tópicos](topicos/topicos.md)
-- [Análise de atividades]
+- [Todos os tópicos](topicos/topicos.md)<br>
 
 ### Avisos ativos
 
