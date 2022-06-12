@@ -19,6 +19,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-1-bia-plano.pdf).
 - [Tópico 05a](./topicos/topico-05a.md)
 - [Tópico 06](./topicos/topico-06.md) (Data limite: 17/06/2022 23:59:59)<br>
 - [Todos os tópicos](topicos/topicos.md)<br>
+- [Análise das atividades](./media/bd-2022-1-bia-resumo.pdf)
 
 ### Avisos ativos
 
