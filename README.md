@@ -19,7 +19,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-1-bia-plano.pdf).
 
 ### Avisos ativos
 
-- **Em 15/06/2022 não teremos encontro presencial**.<br>Peço-lhes que usem esse momento para trabalhar o conteúdo no Tópico 07a.
+- **Em 15/06/2022 não teremos encontro presencial**.<br>Peço-lhes que usem esse momento para trabalhar o conteúdo no [Tópico 07a](./topicos/topico-07a.md).
 
 - Ao criar uma *issue*, selecione um dos *templates*: **Tópico** ou **Dúvida**.
 <br>
