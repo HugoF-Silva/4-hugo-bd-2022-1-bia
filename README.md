@@ -10,18 +10,14 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-1-bia-plano.pdf).
 
 ### Tópicos com atividades ativas
 
-- [Tópico 05](./topicos/topico-05.md) (Data limite: 17/06/2022 23:59:59)<br>
-- [Tópico 05a](./topicos/topico-05a.md)
-- [Tópico 06](./topicos/topico-06.md) (Data limite: 17/06/2022 23:59:59)<br>
 - [Tópico 07](./topicos/topico-07.md) (Data limite: 24/06/2022 23:59:59)<br>
 - [Tópico 07a](./topicos/topico-07a.md)
 - [Tópico 08](./topicos/topico-08.md) (Data limite: 24/06/2022 23:59:59)<br>
+- [Tópico 08a](./topicos/topico-08a.md)
 - [Todos os tópicos](topicos/topicos.md)<br>
 - [Análise das atividades](./media/bd-2022-1-bia-resumo.pdf)
 
 ### Avisos ativos
-
-- **Em 15/06/2022 não teremos encontro presencial**.<br>Peço-lhes que usem esse momento para trabalhar o conteúdo no [Tópico 07a](./topicos/topico-07a.md).
 
 - Ao criar uma *issue*, selecione um dos *templates*: **Tópico** ou **Dúvida**.
 <br>
