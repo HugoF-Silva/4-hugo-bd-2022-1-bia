@@ -27,7 +27,7 @@ Discuta todas as restrições de integridade violadas por cada operação, se ho
 (i) Modificar Cpf_gerente e Data_inicio_gerente da tupla DEPARTAMENTO com Dnumero = 5 para '12345678966' e '01-01-2007', respectivamente.<br>
 (j) Modificar o atributo Cpf_supervisor da tupla FUNCIONARIO com Cpf = '99988777767' para ''94377554355'.<br>
 (k) Modificar o atributo Horas da tupla TRABALHA_EM com Fcpf = '99988777767' e Prn = 10 para 5.<br>
-(l) Modificar o atributo Sexo da tupla FUNCIONARIO com Bpf = '99988777767' para 'B'.<br>
+(l) Modificar o atributo Sexo da tupla FUNCIONARIO com Cpf = '99988777767' para 'B'.<br>
 
 ### Questão 02
 
