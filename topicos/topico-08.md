@@ -59,7 +59,7 @@ Uma **superchave SK<sub>i</sub> em R** é uma **chave em R** se não tiver atrib
   - por exemplo, suponha que no esquema de MUNICIPIO há superchaves {Cidade, Estado, Área} e {Cidade, Estado}:
     - contudo, somente {Cidade, Estado} é uma chave em MUNICIPIO.
 
-Segundo [1], para entender chave vs. superchave, uma chave satisfaz duas propriedades:
+Segundo [1], para entender _chave vs. superchave_, uma chave satisfaz duas propriedades:
 1. Duas tuplas distintas em qualquer estado da relação não podem ter valores idênticos para (todos) os atributos na chave. Essa propriedade de exclusividade também se aplica a uma superchave.
 2. É uma superchave mínima - ou seja, uma superchave da qual não podemos remover nenhum atributo e ainda manter a restrição de exclusividade. Essa propriedade de minimalidade é necessária para uma chave, mas é opcional para uma superchave.
 
