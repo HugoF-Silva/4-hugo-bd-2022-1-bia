@@ -238,15 +238,6 @@ IMPORTANTE:<br>
 (b) ...<br>
 &#8718; Responda, **necessariamente**, neste formato.
 
-RESPOSTA:<br>
-(a) **12** : (04) Restrição de integridade de entidade , (08) Restrição de integridade referencial<br>
-(b) **02** : (02) Restrição de chave<br>
-(c) **03** : (01) Restrição de domínio , (02) Restrição de chave<br>
-(d) **08** : (08) Restrição de integridade referencial<br>
-(e) **08** : (08) Restrição de integridade referencial<br>
-(f) **08** : (08) Restrição de integridade referencial<br>
-(g) **00**<br>
-
 ## Artefatos
 
 1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2022-1-bia, cujo título é "Tópico 09", para indicar suas reflexões iniciais sobre *restrições de integridade no modelo relacional*.
