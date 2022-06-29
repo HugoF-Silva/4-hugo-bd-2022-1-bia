@@ -75,7 +75,7 @@ A **Operação JUNÇÃO NATURAL** elimina repetições de dados (colunas repetid
 - O símbolo **&#42;** identifica a operação:
   - alguns autores empregam o símbolo **&#8904;** isolado (sem ser seguido por um predicado de JUNÇÃO).
 - A JUNÇÃO NATURAL não possui, explicitamente, um predicado de JUNÇÃO:
-  - então, como saber **que predicado de JUNÇÃO** aplicar a JUNÇÃO NATURAL, se nenhum predicado está explícito?
+  - então, como saber **que predicado de JUNÇÃO** aplicar à JUNÇÃO NATURAL, se nenhum predicado está explícito?
   - ao aplicar a JUNÇÃO NATURAL entre **R** e **S**, deve haver **pelo menos um atributo com o mesmo nome** em R e em S:
     - os atributos de mesmo nome são usados no **predicado implícito de JUNÇÃO NATURAL**;
     - sejam R(A<sub>1</sub>, A<sub>2</sub>, ..., X<sub>1</sub>, ... A<sub>n</sub>) e S(B<sub>1</sub>, B<sub>2</sub>, ..., X<sub>1</sub>, ... B<sub>m</sub>), então o atributo de mesmo nome em R e S é **X<sub>1</sub>**;
