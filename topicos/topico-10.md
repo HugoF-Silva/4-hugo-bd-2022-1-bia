@@ -150,7 +150,7 @@ Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-1-bia, com 
 
 IMPORTANTE:
 - Utilize uma única expressão (ou seja, não decomponha em vários expressões).
-- Use, necessariamente, os operadores:
+- Use, necessariamente (apenas), os operadores:
   - seleção (**σ**), projeção(**π**), produto cartesiano (**×**) e renomeação (**ρ**), bem como parêntesis.
 
 ## Artefatos
