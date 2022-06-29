@@ -105,8 +105,8 @@ OU<br>
 
 Considere o esquema relacional para as relações MUNICIPIO e BAIRRO, bem com as ilustrações para a relações:
 
-MUNICIPIO (<ins>Nome, Estado</ins>, Regia)<br>
-| <ins>Nome</ins> | <ins>Estado</ins> | Regia |
+MUNICIPIO (<ins>Nome, Estado</ins>, Regiao)<br>
+| <ins>Nome</ins> | <ins>Estado</ins> | Regiao |
 |-|-|-|
 | **Santa Rosa** | **GO** | Centro-oeste |
 | **Goiânia** | **GO** | Centro-oeste |
@@ -121,7 +121,7 @@ BAIRRO (Cidade, UF) REFERENCIA MUNICIPIO (Nome, Estado)<br>
 | **Santa Rosa** | **MG** | **Centro** | 111 |
 
 A operação JUNÇÃO poderia ser expressa conforma abaixo:<br>
-&#8718; **MUNICIPIO &#8904;<sub>MUNICIPIO.Nome = Cidade AND UF=Estado</sub>BAIRRO**
+&#8718; **MUNICIPIO &#8904;<sub>MUNICIPIO.Nome = Cidade AND Estado=UF</sub> BAIRRO**
 
 Ambas as sequências de expressões abaixo implementam a JUNÇÃO NATURAL:<br>
 &#8718; **TEMP(<sub>Cidade, UF, Regiao</sub>) &#8592; MUNICIPIO**<br>
