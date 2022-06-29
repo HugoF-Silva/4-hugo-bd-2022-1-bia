@@ -101,6 +101,32 @@ OU<br>
 
 <img src="../media/fig-algebra-join-2.jpg" width="780">
 
+#### JUNÇÃO Exemplo 3
+
+Considere o esquema relacional para as relações MUNICIPIO e BAIRRO, bem com as ilustrações para a relações:
+
+MUNICIPIO (<ins>Nome, Estado</ins>, Regia)<br>
+| <ins>Nome</ins> | <ins>Estado</ins> | Regia |
+|-|-|-|
+| **Santa Rosa** | **GO** | Centro-oeste |
+| **Goiânia** | **GO** | Centro-oeste |
+| **Santa Rosa** | **MG** | Sudeste |
+
+BAIRRO (<ins>Cidade, UF, Nome</ins>, Area)<br>
+BAIRRO (Cidade, UF) REFERENCIA MUNICIPIO (Nome, Estado)<br>
+| <ins>Cidade</ins> | <ins>UF</ins> | <ins>Nome</ins> | Área |
+|-|-|-|-|
+| **Santa Rosa** | **GO** | **Centro** | 100 |
+| **Santa Rosa** | **MG** | **Oeste** | 120 |
+| **Santa Rosa** | **MG** | **Centro** | 111 |
+
+Ambas as sequências de expressões abaixo implementam a JUNÇÃO NATURAL:<br>
+&#8718; **TEMP(<sub>Cidade, UF, Regiao</sub>) &#8592; MUNICIPIO**<br>
+&#8718; **RESULT &#8592; TEMP * BAIRRO**<br>
+OU<br>
+&#8718; **RESULT &#8592; ρ (<sub>Cidade, UF, Regiao</sub>) (MUNICIPIO) * BAIRRO**
+
+
 ### Em síntese
 
 ```diff
