@@ -76,10 +76,6 @@ Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-1-bia, com 
 IMPORTANTE:
 - Use, necessariamente (somente), as operações da álgebra relacional apresentadas até o presente tópico.
 
-RESPOSTA:<br>
-FUNC_CPF &#8592; π <sub>TE1.CPF</sub> ( (ρ <sub>TE1</sub> (TRABALHA_EM)) &#8904; <sub>TE1.Fcpf &#x3d; TE2.Fcpf &#x0245; TE1.Pnr &#x2260; TE2.Pnr</sub> (ρ <sub>TE2</sub> (TRABALHA_EM)) )<br>
-RESULT &#8592; π <sub>Pnome, Unome</sub> (FUNC_CPF * FUNCIONARIO)
-
 ## Artefatos
 
 1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2022-1-bia, cujo título é "Tópico 11", para indicar suas reflexões iniciais sobre conceitos da *álgebra relacional*.
