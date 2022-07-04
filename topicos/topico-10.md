@@ -129,6 +129,11 @@ Ambas as sequências de expressões abaixo implementam a JUNÇÃO NATURAL:<br>
 OU<br>
 &#8718; **RESULT &#8592; ρ (<sub>Cidade, UF, Regiao</sub>) (MUNICIPIO) * BAIRRO**
 
+### Para refletir ...
+
+Para cada funcionário, apresente o nome do funcionário e o nome do departamento em que trabalha para.
+
+
 
 ### Em síntese
 
