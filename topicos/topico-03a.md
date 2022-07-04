@@ -10,6 +10,10 @@
     - nome da disciplina, horários/salas, professor, ementa, código da turma, carga horária
   - Quais os alunos matriculados nas minhas disciplinas no semestre letivo X?
     - matrícula, nome
+  - Qual o histórico de disciplina do aluno X?
+    - dados do aluno, disiplinas cursadas com resultados, taxa de integralização
+  - Quais as atividades, em aberto e finalizadas, em uma oferta de disciplina?
+  - Quais os projetos de pesquisa e extensão do aluno x ma data Y?
 
 - Professor
   - Quais os alunos como maior número de faltas na turma X da disciplina Y (minha turma) no semestre letivo Z?
@@ -19,6 +23,8 @@
   - Qual a quantidade de alunos ativos no curso?
   - Quais os alunos com expectiva para graduar-se até o semestre letivo X?
     - matricula, nome 
+  - Qual a matriz de disciplinas do curso X?
+    - disicplina, período nominal de oferta, pré-requisitos entre disciplinas, carga horária da disciplina
 
 - Diretor
   - Qual a agenda de ensino do professor X no semestre letivo Y?
