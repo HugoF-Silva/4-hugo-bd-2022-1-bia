@@ -133,7 +133,7 @@ OU<br>
 
 Para cada funcionário, apresente o nome do funcionário e o nome do departamento em que trabalha para.
 
-
+ FUNCIONARIO &#8904; <sub>Dnr = Dnumero</sub> DEPARTAMENTO
 
 ### Em síntese
 
