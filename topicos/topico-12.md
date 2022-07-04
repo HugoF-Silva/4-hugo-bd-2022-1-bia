@@ -11,7 +11,7 @@ A figura abaixo ilustra a operação DIVISÃO.
 
 <img src="../media/fig-algebra-divisao.jpg" width="150">
 
-π <sub>Fcpf, Pnr</sub> (TRABALHA_EM) ÷ π <sub>Proj_numero</sub> (PROJETO)
+π <sub>Fcpf, Pnr</sub> (TRABALHA_EM) ÷ ρ <sub>(Pnr)</sub> (π <sub>Proj_numero</sub> (PROJETO))
 
 ρ <sub>SUPERVISOR</sub> (FUNCIONARIO)
 
