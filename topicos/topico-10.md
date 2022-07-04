@@ -139,6 +139,10 @@ Para cada funcionário, apresente o nome do funcionário e o nome do seu supervi
 
 π <sub>SUPERVISIONADO.Pnome, SUPERVISOR.Pnome</sub> (ρ <sub>SUPERVISIONADO</sub> (FUNCIONARIO) &#8904; <sub>SUPERVISIONADO.Cpf_supervisor = SUPERVISOR.CPF</sub> ρ <sub>SUPERVISOR</sub> FUNCIONARIO)
 
+SELECT SUPERVISIONADO.Pnome, SUPERVISOR.Pnome<br>
+FROM FUNCIONARIO AS SUPERVISIONADO JOIN FUNCIONARIO AS SUPERVISOR<br>
+ON SUPERVISIONADO.Cpf_supervisor = SUPERVISOR.CPF
+
 
 ### Em síntese
 
