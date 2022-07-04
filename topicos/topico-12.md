@@ -11,6 +11,10 @@ A figura abaixo ilustra a operação DIVISÃO.
 
 <img src="../media/fig-algebra-divisao.jpg" width="150">
 
+π <sub>Fcpf, Pnr</sub> (TRABALHA_EM) ÷ π <sub>Proj_numero</sub> (PROJETO)
+
+ρ <sub>SUPERVISOR</sub> (FUNCIONARIO)
+
 A operação DIVISÃO é usualmente referida como "para todas":
 - Em T ← R ÷ S na figura:
   - o conjunto de atributos de **R** é **X<sub>R</sub> = {A, B}**;
