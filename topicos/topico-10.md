@@ -135,6 +135,11 @@ Para cada funcionário, apresente o nome do funcionário e o nome do departament
 
 π <sub>Pnome, Unome, Dnome</sub> (FUNCIONARIO &#8904; <sub>Dnr = Dnumero</sub> DEPARTAMENTO)
 
+Para cada funcionário, apresente o nome do funcionário e o nome do seu supervisor direto.
+
+FUNCIONARIO &#8904; <sub></sub> FUNCIONARIO
+
+
 ### Em síntese
 
 ```diff
