@@ -11,9 +11,9 @@ A figura abaixo ilustra a operação DIVISÃO.
 
 <img src="../media/fig-algebra-divisao.jpg" width="150">
 
-π <sub>Fcpf, Pnr</sub> (TRABALHA_EM) ÷ ρ <sub>(Pnr)</sub> (π <sub>Proj_numero</sub> (PROJETO))
+Que funcionários trabalham em todos os projetos?
 
-ρ <sub>SUPERVISOR</sub> (FUNCIONARIO)
+π <sub>Fcpf, Pnr</sub> (TRABALHA_EM) ÷ ρ <sub>(Pnr)</sub> (π <sub>Proj_numero</sub> (PROJETO))
 
 A operação DIVISÃO é usualmente referida como "para todas":
 - Em T ← R ÷ S na figura:
