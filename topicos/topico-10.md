@@ -137,7 +137,7 @@ Para cada funcionário, apresente o nome do funcionário e o nome do departament
 
 Para cada funcionário, apresente o nome do funcionário e o nome do seu supervisor direto.
 
-FUNCIONARIO &#8904; <sub></sub> FUNCIONARIO
+ρ <sub>SUPERVISIONADO</sub> (FUNCIONARIO) &#8904; <sub></sub> ρ <sub>SUPERVISOR</sub> FUNCIONARIO
 
 
 ### Em síntese
