@@ -131,5 +131,4 @@ Baseado no conteúdo do arquivo [agricultura.relax](../data/agricultura.relax):
 
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2022-1-bia, cujo título é "Tópico 14", para praticar *comandos da DDL*.
-
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2022-1-bia, cujo título é "Tópico 14", para praticar *comandos DDL*.
