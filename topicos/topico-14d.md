@@ -1,4 +1,4 @@
-## [Tópico T17] - SQL - DML (Data Manipulation Language): Junção, Junção Natural, Valor nulo, Junção Externa
+## [Tópico T14d] - SQL - DML (Data Manipulation Language): Junção, Junção Natural, Valor nulo, Junção Externa
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
 Os exemplos apresentados usam o esquema lógico do **BD Empresa**, conforme abaixo.
