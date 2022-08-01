@@ -1,4 +1,4 @@
-## [Tópico T15b] - Modelo Entidade Relacionamento (MER) - Demanda informacional
+## [Tópico T16a] - Modelo Entidade Relacionamento (MER) - Demanda informacional
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
 O **projetista do banco de dados** toma várias decisões durante o **projeto conceitual**, baseando-se nos **requisitos de dados**. Certamente, o projetista participa de várias iterações para a análise e para a evolução do **esquema conceitual**. Possivelmente, o projetista se depara com vários *pontos de imprecisão*, tais como aqueles listados para a atividade do [Tópico 06](./topico-06.md).<br>
