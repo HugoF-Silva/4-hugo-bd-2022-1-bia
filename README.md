@@ -11,7 +11,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-1-bia-plano.pdf).
 ### Tópicos ativos
 
 - [Tópico 15a](./topicos/topico-15a.md)<br>
-- [Tópico 15b](./topicos/topico-15b.md)<br>
+- [Tópico 16a](./topicos/topico-16a.md)<br>
 - [Todos os tópicos](topicos/topicos.md)<br>
 - [Análise das atividades](./media/bd-2022-1-bia-resumo.pdf)
 
