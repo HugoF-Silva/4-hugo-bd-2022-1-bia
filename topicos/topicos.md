@@ -1,3 +1,4 @@
+[Tópico T18](./topico-18.md) - Modelo Entidade Relacionamento (MER) - Decisões de Projeto<br>
 [Tópico T17](./topico-17.md) - Modelo Entidade Relacionamento (MER) - Tipo de entidade fraca<br>
 [Tópico T16a](./topico-16a.md) - Modelo Entidade Relacionamento (MER) - Demanda informacional<br>
 [Tópico T15a](./topico-15a.md) - Modelo Entidade Relacionamento (MER) - Primeiros passos e _Checklist_<br>
