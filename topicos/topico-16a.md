@@ -1,7 +1,7 @@
 ## [Tópico T16a] - Modelo Entidade Relacionamento (MER) - Demanda informacional
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
-O **projetista do banco de dados** toma várias decisões durante o **projeto conceitual**, baseando-se nos **requisitos de dados**. Certamente, o projetista participa de várias iterações para a análise e para a evolução do **esquema conceitual**. Possivelmente, o projetista se depara com vários *pontos de imprecisão*, tais como aqueles listados para a atividade do [Tópico 06](./topico-06.md).<br>
+O **projetista do banco de dados** toma várias decisões durante o **projeto conceitual**, baseando-se nos **requisitos de dados**. Certamente, o projetista participa de várias iterações para a análise e para a evolução do **esquema conceitual**. Possivelmente, o projetista se depara com vários *pontos de imprecisão*, tais como aqueles listados para a atividade do [Tópico 03](./topico-03.md).<br>
 
 O **projeto conceitual** do banco de dados envolve o emprego de um modelo de alto-nível, para a especificação do **esquema conceitual** do banco de dados. Nossa ementa adota o Modelo Entidade Relacionamento (MER) para guiar o **projeto conceitual**. 
 
