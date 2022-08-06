@@ -100,7 +100,7 @@ Escreva em álgebra relacional as seguintes consultas:
 1. Qual o nome das pessoas em que todos os projetos que trabalham em estão entre os projetos que o funcionário "João B Silva" trabalha em? Pessoas que não trabalham em qualquer projeto NÃO ESTÃO INCLUÍDAS no resultado da consulta.<br>
 
 RESPOSTAS:<br>
-Fvor ver propostas de resposta [aqui](https://github.com/plinioleitao/bd-2022-1-bia/issues/418).
+Favor ver propostas de resposta [aqui](https://github.com/plinioleitao/bd-2022-1-bia/issues/418).
 
 ## Artefatos
 
