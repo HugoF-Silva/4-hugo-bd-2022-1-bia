@@ -1,4 +1,5 @@
 [Tópico T19a](./topico-19a.md) - Modelo Entidade Relacionamento (MER) - Exercício<br>
+[Tópico T18b](./topico-18b.md) - Modelo Entidade Relacionamento (MER) - Exercício<br>
 [Tópico T18a](./topico-18a.md) - Modelo Entidade Relacionamento (MER) - Exercício<br>
 [Tópico T18](./topico-18.md) - Modelo Entidade Relacionamento (MER) - Decisões de Projeto<br>
 [Tópico T17](./topico-17.md) - Modelo Entidade Relacionamento (MER) - Tipo de entidade fraca<br>
