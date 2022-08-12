@@ -9,11 +9,9 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-1-bia-plano.pdf).
 
 ### Tópicos ativos
 
-- [Tópico 15a](./topicos/topico-15a.md)<br>
-- [Tópico 16a](./topicos/topico-16a.md)<br>
 - [Tópico 17](./topicos/topico-17.md) (Data limite: 12/08/2022 23:59:59)
 - [Tópico 18](./topicos/topico-18.md) (Data limite: 12/08/2022 23:59:59)
-- [Tópico 18a](./topicos/topico-18a.md)
+- [Tópico 19](./topicos/topico-19.md) (Data limite: 19/08/2022 23:59:59)
 - [Tópico 19a](./topicos/topico-19a.md)
 - [Todos os tópicos](topicos/topicos.md)<br>
 - [Análise das atividades](./media/bd-2022-1-bia-resumo.pdf)
