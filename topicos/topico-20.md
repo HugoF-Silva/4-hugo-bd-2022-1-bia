@@ -33,7 +33,7 @@ A interpretação com respeito ao DER acima é:
 
 ### Segundo exemplo
 
-Seja o BD Locadora de Veículos, que tem os requisitos de dados introduzidos no [Tópico 06](./topico-06.md). Considere o tipo de entidade FUNCIONARIO, cujo significado é **conjunto de funcionários** da locadora. Segundo os requisitos de dados, há várias categorias de funcionários, a saber: administrador, atendente, gerente financeiro e mecânico. Contudo, há subgrupos (subtipos) de funcionários que são significativos para a aplicação e precisam ser representados explicitamente, por causa de sua importância com relação ao conteúdo do banco de dados: esses subgrupos de funcionários são ATENDENTE e MECANICO. A figura a seguir ilustra esta generalização/especialização aplicada ao BD Locadora de Veiculos.
+Seja o BD Locadora de Veículos, que tem os requisitos de dados introduzidos no [Tópico 03b](./topico-03b.md). Considere o tipo de entidade FUNCIONARIO, cujo significado é **conjunto de funcionários** da locadora. Segundo os requisitos de dados, há várias categorias de funcionários, a saber: administrador, atendente, gerente financeiro e mecânico. Contudo, há subgrupos (subtipos) de funcionários que são significativos para a aplicação e precisam ser representados explicitamente, por causa de sua importância com relação ao conteúdo do banco de dados: esses subgrupos de funcionários são ATENDENTE e MECANICO. A figura a seguir ilustra esta generalização/especialização aplicada ao BD Locadora de Veiculos.
 
 <img src="../media/fig-der-especializacao-1.jpg" width="320">
 
