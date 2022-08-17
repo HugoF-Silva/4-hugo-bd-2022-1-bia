@@ -85,7 +85,7 @@ Um voo é tipicamente composto por uma **sequência** de trechos [de voos]. Por 
 Sobre as execuções de trecho de voo:
 - Cada execução possui uma data e hora de partida _prevista_ e uma data e hora de partida _efetivamente realizada_, onde o realizado pode diferir do previsto (por exemplo, quando há atraso na execução do trecho de voo). O mesmo conteúdo e raciocínio se aplica à data e hora de chegada.
 - Cada execução possui aeroportos previstos e realizados, para ambas partida e chegada.
-- Cada execução possui aeronaves (aviões) previstas e realizadas, para ambas partida e chegada:
+- Cada execução possui aeronave (avião) prevista e realizada:
   - qualquer aeronave possui um mapa de assentos, os quais serão potencialmente ocupados por passageiros, quando a aeronave for utilizada na execução (realização) de um trecho de voo:
     - um mapa de assentos de uma areonave se refere a todos os assentos disponíveis para serem ocupados por passageiros;
     - duas aeronaves podem ter mapas de assentos distintos;
