@@ -1,3 +1,4 @@
+[Tópico T20](./topico-20.md) - Modelo Entidade Relacionamento (MER) - Generalização/Especialização<br>
 [Tópico T19a](./topico-19a.md) - Modelo Entidade Relacionamento (MER) - Exercício<br>
 [Tópico T19](./topico-19.md) - Tempo para convergir ...<br>
 [Tópico T18b](./topico-18b.md) - Modelo Entidade Relacionamento (MER) - Exercício<br>
