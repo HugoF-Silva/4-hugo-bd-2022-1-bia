@@ -14,7 +14,7 @@ Foi solicitada a implementação de uma nova cláusula (função) para a SQL, de
 |Consulta SQL Original|Consulta SQL Alternativa|Significado|
 |-|-|-|
 |SELECT Pnome, Unome<br>FROM FUNCIONARIO AS F<br>WHERE **EXISTS** (<br>&nbsp;&nbsp;SELECT Nome_dependente<br>&nbsp;&nbsp;FROM DEPENDENTE AS D<br>&nbsp;&nbsp;WHERE F.Cpf = D.Fcpf )|SELECT Pnome, Unome<br>FROM FUNCIONARIO AS F<br>WHERE 0 < (<br>&nbsp;&nbsp;SELECT COUNT(\*)<br>&nbsp;&nbsp;FROM DEPENDENTE AS D<br>&nbsp;&nbsp;WHERE F.Cpf = D.Fcpf )|Qual o primeiro e último nomes dos funcionários<br>que possuem algum dependente?|
-|SELECT Pnome, Unome<br>FROM FUNCIONARIO AS F<br>WHERE **UNIQUE** (<br>&nbsp;&nbsp;SELECT Nome_dependente<br>&nbsp;&nbsp;FROM DEPENDENTE AS D<br>&nbsp;&nbsp;WHERE F.Cpf = D.Fcpf )|???????????????|Qual o primeiro e último nomes dos funcionários<br>cujos dependentes não têm nomes repetidos?|
+|SELECT Pnome, Unome<br>FROM FUNCIONARIO AS F<br>WHERE **UNIQUE** (<br>&nbsp;&nbsp;SELECT Nome_dependente<br>&nbsp;&nbsp;FROM DEPENDENTE AS D<br>&nbsp;&nbsp;WHERE F.Cpf = D.Fcpf )|    ???????????????|Qual o primeiro e último nomes dos funcionários<br>cujos dependentes não têm nomes repetidos?|
 
 ### Exercício 02
 
@@ -62,7 +62,7 @@ A relação EMPRESTIMO (**CPF, ISBN, DataInicio**, DataFinalPrevista, DataFinalR
 (d) o nome das editoras que mudaram de endereço mais de uma vez no último ano.<br>
 (e) Nenhum das alternativas anteriores.<br>
 
-## Atividade (data limite: **19/08/2022 23h59min59s**)
+## Atividade (data limite: **26/08/2022 23h59min59s**)
 
 Crie o diretório **topico-19** no seu repositório https://github.com/contagithub/bd-2022-1-bia, onde **contagithub** é o nome da conta do aluno no Github. Este é o repositório que você criou no início da disciplina.
 
@@ -76,28 +76,37 @@ Neste diretório você deverá depositar um arquivo JPG, contendo a imagem de um
 - Ao 'depositar' o arquivo no diretório, checar se as dimensões da imagem do diagrama estão ajustadas à area de apresentação no GitHub (não deve ser muito pequeno a ponto de tornar-se ilegível, nem grande demais a ponto de ser necessário **rolar** (*to scroll*) para visualizar).
 - Faça você mesmo, evite olhar respostas prontas.<br> Novamente, convém citar Cora Coralina para esclarecer o objetivo da atividade: "O que vale na vida não é o ponto de partida e sim a caminhada. Caminhando e semeando, no fim terás o que colher".
 
+### BD Passagens Aéreas ...
+
 A atividade considera os requisitos de dados do **BD Passagens Aéreas**, conforme descrito a seguir.
 
-O _Sistema de Informação de Passagens Aéreas_ visa ao acompanhamento e controle dos vôos domésticos e seus passageiros. O conceito primeiro a ser considerado é o _**voo**_. Há um conjunto de voos, cada qual é realizado (executado) periodicamente.
-
-Um voo é tipicamente composto por uma **sequência** de trechos [de voos]. Por exemplo, um voo particular de Brasília para Porto Alegre é composto pela sequência de trechos: Brasília-São Paulo, São Paulo-Belo Horizonte e Belo Horizonte-Porto Alegre. Sobre _voos realizados periodicamente_, significa que o voo pode ser executado diariamente, ou seja, todos os dias há a realização dos três trechos deste voo.
+O _Sistema de Informação de Passagens Aéreas_ visa ao acompanhamento e ao controle dos vôos domésticos e seus passageiros.<br>
+O conceito primeiro a ser considerado é o _**voo**_:
+- Tipicamente, há um conjunto de voos, cada qual é realizado (executado) periodicamente.
+- Um voo é tipicamente composto por uma **sequência** de trechos [de voos]:
+  - por exemplo, um voo particular de Brasília para Porto Alegre é composto pela sequência de trechos: Brasília-São Paulo, São Paulo-Belo Horizonte e Belo Horizonte-Porto Alegre;
+  - sobre _voos realizados periodicamente_, se o voo for executado diariamente, todos os dias há a realização dos três trechos deste voo.
 
 Sobre as execuções de trecho de voo:
-- Cada execução possui uma data e hora de partida _prevista_ e uma data e hora de partida _efetivamente realizada_, onde o realizado pode diferir do previsto (por exemplo, quando há atraso na execução do trecho de voo). O mesmo conteúdo e raciocínio se aplica à data e hora de chegada.
-- Cada execução possui aeroportos previstos e realizados, para ambas partida e chegada.
-- Cada execução possui aeronave (avião):
-  - qualquer aeronave possui um mapa de assentos, os quais serão potencialmente ocupados por passageiros, quando a aeronave for utilizada na execução (realização) de um trecho de voo:
-    - um mapa de assentos de uma areonave se refere a todos os assentos disponíveis para serem ocupados por passageiros;
-    - duas aeronaves podem ter mapas de assentos distintos;
+- Cada execução de trecho possui uma **data/hora de partida _prevista_** e uma **data/hora de partida _efetivamente realizada_**:
+  - o realizado pode diferir do previsto; por exemplo, quando há atraso na execução do trecho de voo.
+- Cada execução de trecho possui uma **data/hora de chegada _prevista_** e uma **data/hora de chegada _efetivamente realizada_**.
+- Cada execução de trecho possui **aeroporto de partida _previsto_** e **aeroporto de partida _realizado_**.
+- Cada execução de trecho possui **aeroporto de chegada _previsto_** e **aeroporto de chegada _realizado_**.
+- Cada execução de trecho ocorre por meio de uma **aeronave**.
+- Uma aeronave possui um **mapa de assentos**:
+  - o mapa de assentos de uma areonave se refere a todos os assentos ocupáveis por passageiros:
     - cada assento de uma aeronave é identificado pela fileira (por exemplo: 1, 2, 3, etc.) e pela posição na fileira (por exemplo: A, B, C, etc.);
-    - é importante categorizar se um assento particular se refere à primeira classe ou à classe executiva.
+    - cada assento está na **_primeira classe_** ou na **_classe executiva_**;
+    - na execução de um trecho de voo, tipicamente há **assentos _ocupados_** e **assentos _não ocupados_**;
+  - duas aeronaves distintas podem ter mapas de assentos distintos.
 
-Ao adquirir uma passagem aérea, o passageiro (CPF, Nome, Data de Nascimento, etc.) contrata uma **sequência** de trechos (não necessariamente do mesmo voo), cada qual com execução (realização) prevista para determinada data e hora:
-- Por exemplo, se um passageiro pretende ir de Brasília para Macapá em uma data, pode utilizar:
-  - a sequência de trechos Brasília-São Paulo e São Paulo-Belo Horizonte de um voo executado nesta data; e
-  - a sequência de trechos Belo Horizonte-Belém e Belém-Macapá de outro voo executado nesta data;
+Ao adquirir uma passagem aérea, o passageiro (CPF, Nome, Data de Nascimento, etc.) contrata uma **sequência** de trechos de voos (não necessariamente do mesmo voo), cada trecho com execução (realização) prevista para determinada data/hora:
+- Por exemplo, se um passageiro pretende ir de Brasília para Macapá com partida em uma data/hora, pode utilizar:
+  - a sequência de trechos Brasília-São Paulo e São Paulo-Belo Horizonte de um voo; e
+  - a sequência de trechos Belo Horizonte-Belém e Belém-Macapá de outro voo;
   - obviamente, a primeira sequência deve anteceder a segunda no tempo.
-- Em cada trecho de voo, o passageiro ocupará um assento da aeronave pertinente à execução do trecho na data e hora previstas. 
+- Em cada trecho de voo, o passageiro ocupará um assento da aeronave pertinente à execução do trecho na data/hora prevista.
 
 Algumas demandas informacionais são:
 1. Quais os trechos por voo? Qual a cidade que participa (partida ou chegada) de mais trechos de voo?
