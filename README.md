@@ -11,7 +11,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-1-bia-plano.pdf).
 
 - [Tópico 19](./topicos/topico-19.md) (Data limite: 26/08/2022 23:59:59)
 - [Tópico 19a](./topicos/topico-19a.md)
-- [Tópico 20](./topicos/topico-20.md) (Data limite: 26/08/2022 23:59:59)
+- [Tópico 20](./topicos/topico-20.md) (Data limite: 02/09/2022 23:59:59)
 - [Todos os tópicos](topicos/topicos.md)<br>
 - [Análise das atividades](./media/bd-2022-1-bia-resumo.pdf)
 
