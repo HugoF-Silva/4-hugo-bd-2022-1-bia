@@ -1,3 +1,5 @@
+[Tópico T21b](./topico-21b.md) - Mapeamento MER para MR (parte 2)<br>
+[Tópico T21a](./topico-21a.md) - Mapeamento MER para MR (parte 1)<br>
 [Tópico T20](./topico-20.md) - Modelo Entidade Relacionamento (MER) - Generalização/Especialização<br>
 [Tópico T19a](./topico-19a.md) - Modelo Entidade Relacionamento (MER) - Exercício<br>
 [Tópico T19](./topico-19.md) - Tempo para convergir ...<br>
