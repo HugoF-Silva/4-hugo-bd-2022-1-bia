@@ -72,6 +72,10 @@ A atividade considera os requisitos de dados do **BD Campeonato de futebol**, qu
 Desenhe um DER capaz de atender todas as demandas informacionais acima:<br>
 &#9786; É necessário 'desenhar' o DER completo.
 
+UMA RESPOSTA
+
+Uma _possível resposta_ está [aqui](https://github.com/GabrielvanderSchmidt/bd-2022-1-bia/blob/main/topico-17/t%C3%B3pico-17.jpg).
+
 ## Artefatos
 
 1. Diretório **topico-17**, criado no repositório do estudante, contendo um arquivo com a imagem JPG do DER solicitado.
