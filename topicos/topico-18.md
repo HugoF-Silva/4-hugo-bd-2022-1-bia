@@ -106,7 +106,7 @@ Favor avaliar a sua resposta conforme os pontos abaixo:<br>
 1. Ao ter pai, mãe e filho (ou outro parente) em tipos de entidade separadas, foi previsto que pai e mãe são também filho de outras pessoas? Se sim, o esquema promove redundância de dados? ([exemplo](https://github.com/GabrielBarcelos01/bd-2022-1-bia/blob/main/topico-18/BD%20%C3%81rvore%20geneal%C3%B3gica.png) [exemplo](https://github.com/EryKoston/bd-2022-1-bia/blob/main/44444.jpeg) <sub>SEM APROVEITAMENTO</sub>)
 1. Tipos de relacionamento que determinam pai e mãe de uma pessoa são redundantes com tipos de relacionamento que estabelecem os filhos (ou outro parentesco) de uma pessoa? ([exemplo](https://github.com/reisguilherme/bd-2022-1-bia/blob/main/Topico%2018/Topico18.png) [exemplo](https://github.com/GO0108/bd-2022-1-bia/blob/main/T%C3%B3pico%2018/T%C3%B3pico%2018.jpg) <sub>SEM APROVEITAMENTO</sub>)
 1. Atributos tais como 'parentes', 'filhos' e 'herdeiros' são atributos derivados? ([exemplo](https://github.com/HugoF-Silva/bd-2022-1-bia/blob/main/T%C3%B3picos/T%C3%B3pico%2018/18.jpg) [exemplo](https://github.com/lucasbrandao4770/bd-2022-1-bia/blob/main/topicos/topico-18/T18.jpg))
-1. 
+1. Imagem não renderizável? ([exemplo](https://github.com/omatheusbrandao/bd-2022-1-bia/blob/main/T%C3%B3pico%2018.jpg) <sub>SEM APROVEITAMENTO</sub>)
 
 ## Artefatos
 
