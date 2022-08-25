@@ -98,9 +98,9 @@ Uma _possível resposta_ está [aqui](https://github.com/GabrielvanderSchmidt/bd
 
 Favor avaliar a sua resposta conforme os pontos abaixo:<br>
 1. Toda pessoa deve, necessariamente, ter pai e mãe cadastrados no banco de dados? Se sim, tal tornaria o banco de dados inviável?
-1. Duas pessoas podem ser homônimas?
-1. É necessário incluir outros parentescos no banco de dados, além de 'pai' e 'mãe'? (Por exemplo, filhos e avós).
-1. Ao indicar paternidade e maternidade, lembrar que em tipos de relacionamentos recursivos é requerido indicar o 'papel desempenhado' por cada entidade participante ([exemplo](https://github.com/cachops/bd-2022-1-bia/blob/main/topico-18/DER.jpg)).
+1. Duas pessoas podem ser homônimas? ([exemplo](https://github.com/alexandreacff/bd-2022-1-bia/blob/main/T%C3%B3pico%2018/T%C3%B3pico%2018.jpeg))
+1. É necessário incluir outros parentescos no banco de dados, além de 'pai' e 'mãe'? ([exemplo](https://github.com/alexandreacff/bd-2022-1-bia/blob/main/T%C3%B3pico%2018/T%C3%B3pico%2018.jpeg))
+1. Ao indicar paternidade e maternidade, é requerido indicar o 'papel desempenhado' por cada entidade participante em tipos de relacionamentos recursivos? ([exemplo](https://github.com/cachops/bd-2022-1-bia/blob/main/topico-18/DER.jpg)).
 
 ## Artefatos
 
