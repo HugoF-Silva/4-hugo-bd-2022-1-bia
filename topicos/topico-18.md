@@ -104,6 +104,8 @@ Favor avaliar a sua resposta conforme os pontos abaixo:<br>
 1. A associação entre duas pessoas requer tipo de relacionamento com grau maior que dois, tal como ternário? ([exemplo](https://github.com/DecivanDamascenoAraujoFilho/bd-2022-1-bia/blob/main/topico-18/topico_18.png))
 1. Há redundância entre atributo e tipo de relacionamento (tal como 'chave estrageira')? ([exemplo](https://github.com/EryKoston/bd-2022-1-bia/blob/main/44444.jpeg))
 1. Parentes são tratados em tipo de entidade adicional à própria pessoa? ([exemplo](https://github.com/EryKoston/bd-2022-1-bia/blob/main/44444.jpeg))
+1. Ao ter pai, mãe e filho em tipos de entidade separadas, foi previsto que pai e mãe são também filho de outras pessoas? Se sim, o esquema promove redundância de dados? (exemplo](https://github.com/GabrielBarcelos01/bd-2022-1-bia/blob/main/topico-18/BD%20%C3%81rvore%20geneal%C3%B3gica.png))
+
 
 ## Artefatos
 
