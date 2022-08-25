@@ -92,6 +92,14 @@ A atividade considera os requisitos de dados do **BD Árvore genealógica**, que
 Desenhe um DER capaz de atender todas as demandas informacionais acima:<br>
 &#9786; É necessário 'desenhar' o DER completo.
 
+UMA RESPOSTA
+
+Uma Possível resposta está [aqui](https://github.com/GabrielvanderSchmidt/bd-2022-1-bia/blob/main/topico-18/t%C3%B3pico-18.jpg).
+
+Favor avaliar a sua resposta conforme os pontos abaixo:<br>
+1. Toda pessoa deve, necessariamente, ter pai e mãe cadastradoso banco de dados? Se sim, tal tornaria o banco de dados inviável?
+1. 
+
 ## Artefatos
 
 1. Diretório **topico-18**, criado no repositório do estudante, contendo um arquivo com a imagem JPG do DER solicitado.
