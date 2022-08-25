@@ -101,7 +101,7 @@ Favor avaliar a sua resposta conforme os pontos abaixo:<br>
 1. Duas pessoas podem ser homônimas? ([exemplo](https://github.com/cachops/bd-2022-1-bia/blob/main/topico-18/DER.jpg))
 1. É necessário incluir outros parentescos no banco de dados, além de 'pai' e 'mãe'? ([exemplo](https://github.com/alexandreacff/bd-2022-1-bia/blob/main/T%C3%B3pico%2018/T%C3%B3pico%2018.jpeg))
 1. Ao indicar paternidade e maternidade, é requerido indicar o 'papel desempenhado' por cada entidade participante em tipos de relacionamentos recursivos? ([exemplo](https://github.com/cachops/bd-2022-1-bia/blob/main/topico-18/DER.jpg)).
-1. A associação entre duas pessoas requer tipo de relacionamento com grau maior que dois (por exemplo, ternário)? ([exemplo](https://github.com/DecivanDamascenoAraujoFilho/bd-2022-1-bia/blob/main/topico-18/topico_18.png))
+1. A associação entre duas pessoas requer tipo de relacionamento com grau maior que dois, tal como ternário? ([exemplo](https://github.com/DecivanDamascenoAraujoFilho/bd-2022-1-bia/blob/main/topico-18/topico_18.png))
 
 
 ## Artefatos
