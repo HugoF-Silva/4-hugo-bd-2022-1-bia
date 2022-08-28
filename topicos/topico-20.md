@@ -132,7 +132,7 @@ A atividade considera o esquema lógico do BD Biblioteca, conforme a figura abai
 <img src="../media/fig-esquema-logico-biblioteca.jpg" width="250">
 
 1. Desenhe um DER para o BD Biblioteca, o qual pode ser mapeado para obter o esquema lógico do BD Biblioteca.<br>Trata-se de **Engenharia reversa?**
-1. [Opcional] Você poder apresentar uma solução alternativa (em adição à resposta para a Questão 1)?
+1. [Opcional] Você pode apresentar uma solução alternativa (em adição à resposta para a Questão 1)?
 
 ## Artefatos
 
