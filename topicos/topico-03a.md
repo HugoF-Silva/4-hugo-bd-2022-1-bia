@@ -30,4 +30,7 @@
   - Qual a agenda de ensino do professor X no semestre letivo Y?
     - matrícula, nome, turmas/horários/salas
 
+<img src="../media/fig-der-controle_academico-bia.jpg" width="500">
+
+
 ## Não há atividade para este tópico, excepcionalmente.
