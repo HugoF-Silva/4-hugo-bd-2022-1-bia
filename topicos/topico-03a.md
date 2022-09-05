@@ -12,8 +12,8 @@
     - matrícula, nome
   - Qual o histórico de disciplina do aluno X?
     - dados do aluno, disiplinas cursadas com resultados, taxa de integralização
-  - Quais as atividades, em aberto e finalizadas, em uma oferta de disciplina?
-  - Quais os projetos de pesquisa e extensão do aluno x ma data Y?
+  - PENDENTE Quais as atividades, em aberto e finalizadas, em uma oferta de disciplina?
+  - PENDENTE Quais os projetos de pesquisa e extensão do aluno x ma data Y?
 
 - Professor
   - Quais os alunos como maior número de faltas na turma X da disciplina Y (minha turma) no semestre letivo Z?
