@@ -27,7 +27,7 @@
     - disicplina, período nominal de oferta, pré-requisitos entre disciplinas, carga horária da disciplina
 
 - Diretor
-  - Qual a agenda de ensino do professor X no semestre letivo Y?
+  - PENDENTE Qual a agenda de ensino do professor X no semestre letivo Y?
     - matrícula, nome, turmas/horários/salas
 
 <img src="../media/fig-der-controle-academico-bia.jpg" width="500">
