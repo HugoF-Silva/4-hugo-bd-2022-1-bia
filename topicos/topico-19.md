@@ -123,6 +123,9 @@ Algumas demandas informacionais são:
 Desenhe um DER capaz de atender todas as demandas informacionais acima:<br>
 &#9786; É necessário 'desenhar' o DER completo.
 
+RESPOSTA:<br>
+Uma resposta [aqui](https://github.com/iagoalvesb/bd-2022-1-bia/blob/main/Topico_19.png), mas incompleta.
+
 ## Artefatos
 
 1. Diretório **topico-19**, criado no repositório do estudante, contendo um arquivo com a imagem JPG do DER solicitado.
