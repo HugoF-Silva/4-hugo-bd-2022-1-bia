@@ -135,9 +135,9 @@ A atividade considera o esquema lógico do BD Biblioteca, conforme a figura abai
 1. [Opcional] Você pode apresentar uma solução alternativa (em adição à resposta para a Questão 1)?
 
 RESPOSTA:<br>
-Uma respota está [aqui](https://github.com/GabrielvanderSchmidt/bd-2022-1-bia/tree/main/topico-20).
+Uma resposta está [aqui](https://github.com/GabrielvanderSchmidt/bd-2022-1-bia/tree/main/topico-20).
 
-
+1. Inconsistências ao aplicar o Modelo Entidade Relacionamento, tais como ausência de atributo chave, associação direta entre tipos de entidade (sem tipo de relacionamento), emprego incorreto de tipo de entidade fraca, etc.<br> [exemplo](https://github.com/alessandra30smorais/bd-2022-1-bia/issues/3) <sub>SEM APROVEITAMENTO</sub>
 
 ## Artefatos
 
