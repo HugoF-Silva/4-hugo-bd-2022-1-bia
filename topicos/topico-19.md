@@ -128,6 +128,8 @@ Uma resposta [aqui](https://github.com/iagoalvesb/bd-2022-1-bia/blob/main/Topico
 
 1. Inconsistências ao aplicar o Modelo Entidade Relacionamento, tais como ausência de atributo chave, associação direta entre tipos de entidade (sem tipo de relacionamento), emprego incorreto de tipo de entidade fraca, etc.<br> [exemplo](https://github.com/alessandra30smorais/bd-2022-1-bia/issues/1) [exemplo](https://github.com/EryKoston/bd-2022-1-bia/blob/main/Topico19.jpeg) [exemplo](https://github.com/Fabrycio-Nakano/bd-2022-1-bia/blob/main/topico-19/19.png) [exemplo](https://github.com/kauandivino/bd-2022-1-bia/blob/master/topico-19/topico-19.jpg) <sub>SEM APROVEITAMENTO</sub>
 
+1. Diagrama ilegível e/ou incompleto em relação aos requisitos de dados presentes na atividade.<br> [https://user-images.githubusercontent.com/91764571/187008992-f4560ed3-9821-4b52-b269-ef5a5201a54a.png]() <sub>SEM APROVEITAMENTO</sub>
+
 ## Artefatos
 
 1. Diretório **topico-19**, criado no repositório do estudante, contendo um arquivo com a imagem JPG do DER solicitado.
