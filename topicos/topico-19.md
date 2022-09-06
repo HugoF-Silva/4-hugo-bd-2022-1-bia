@@ -126,6 +126,8 @@ Desenhe um DER capaz de atender todas as demandas informacionais acima:<br>
 RESPOSTA:<br>
 Uma resposta [aqui](https://github.com/iagoalvesb/bd-2022-1-bia/blob/main/Topico_19.png), mas incompleta.
 
+1. Inconsistências ao aplicar o Modelo Entidade Relacionamento, tais como ausência de atributo chave, associação direta entre tipos de entidade (sem tipo de relacionamento), emprego incorreto de tipo de entidade fraca, etc. ([exemplo](https://github.com/alessandra30smorais/bd-2022-1-bia/issues/1)) <sub>SEM APROVEITAMENTO</sub>)
+
 ## Artefatos
 
 1. Diretório **topico-19**, criado no repositório do estudante, contendo um arquivo com a imagem JPG do DER solicitado.
