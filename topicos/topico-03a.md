@@ -25,7 +25,7 @@
     - matricula, nome
   - Qual a matriz de disciplinas do curso X?
     - disicplina, período nominal de oferta, pré-requisitos entre disciplinas, carga horária da disciplina
-  - PENDENTE Quais as disciplinas como monitoria em curso no Semestre X?
+  - PENDENTE Quais as disciplinas com monitoria em curso no Semestre X?
 
 - Diretor
   - Qual a agenda de ensino do professor X no semestre letivo Y?
