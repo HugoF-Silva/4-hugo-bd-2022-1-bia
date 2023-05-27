@@ -1,6 +1,7 @@
-## Bem-vindo(a)!
+## Disciplina **BANCO DE DADOS**, Oferta 2022/1<br>[Bacharelado em Inteligência Artificial]<br>Bem-vindo(a)!
 
-O plano está disponível [aqui](./media/bd-2022-1-bia-plano.pdf).<br>
+###### *Prof. Plinio Sa Leitao-Junior (INF/UFG)*
+O plano da disciplina está disponível [aqui](./media/bd-2022-1-bia-plano.pdf).<br>
 
 ### Para refletir...
 
